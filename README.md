@@ -1,4 +1,5 @@
-Build Dashboard or a Report using Power BI
+## Build Dashboard or a Report using Power BI
+
 Created a comprehensive dashboard in Power BI featuring key metrics and charts, 
 including Hourly Trend, 
 Weekly Trend, Sales by Category, 
