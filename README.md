@@ -1,11 +1,12 @@
 ## Build Dashboard or a Report using Power BI
 <br>
-- Created a comprehensive dashboard in Power BI featuring key metrics and charts, <br>
-- including Hourly Trend, <br>
--  Weekly Trend, Sales by Category, <br>
-- Sales by Size, <br>
-- Total Pizzas Sold by Category, <br>
-- Top 5 Best Sellers, and Bottom 5 Worst Sellers.<br>
+Created a comprehensive dashboard in Power BI featuring key metrics and charts including, <br>
+- Hourly Trend with category, <br>
+- Total Quantity By Month, <br>
+- Total Revenue On Day Basis, <br>
+- Total Revenue By Month <br>
+- Sales Percentage by Category, <br>
+- Top 10 Best Sellers.<br>
 <br>
 <br>
 **KPI**
