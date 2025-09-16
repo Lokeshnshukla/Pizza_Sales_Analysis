@@ -8,7 +8,7 @@
 -Top 5 Best Sellers, and Bottom 5 Worst Sellers.<br>
 <br>
 <br>
-##KPI<br>
+## KPI<br>
 -Total Revenue SUM([order id])<br>
 -Total Orders COUNTD([order id])<br>
 -Average Order Value [total revenue] / [total orders]<br>
