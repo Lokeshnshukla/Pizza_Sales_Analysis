@@ -9,11 +9,12 @@
 <br>
 <br>
 ## KPI<br>
--Total Revenue SUM([order id])<br>
--Total Orders COUNTD([order id])<br>
--Average Order Value [total revenue] / [total orders]<br>
--Total Pizzas Sold SUM([quantity])<br>
--Average Pizzas Per Order [total pizzas sold] / [total orders]<br>
+-Total Revenue =SUM([order id])<br>
+-Total_pizza_sold = SUM(Full_table[quantity])<br>
+-Total_Revenue = SUMX(Full_table,Full_table[price]*Full_table[quantity])<br>
+-AOV = DIVIDE([Total_Revenue],[Total_orders],0)<br>
+-Avg_pizza/order = DIVIDE([Total_pizza_sold],[Total_orders],0)<br>
+-Avg_revenue/pizza = DIVIDE([Total_Revenue],[Total_pizza_sold],0)<br>
 
 <br>
 <br>
