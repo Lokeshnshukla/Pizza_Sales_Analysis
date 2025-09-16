@@ -8,7 +8,7 @@
 - Top 5 Best Sellers, and Bottom 5 Worst Sellers.<br>
 <br>
 <br>
-## KPI<br>
+**KPI**<br>
 - Total Revenue =SUM([order id])<br>
 - Total_pizza_sold = SUM(Full_table[quantity])<br>
 - Total_Revenue = SUMX(Full_table,Full_table[price]*Full_table[quantity])<br>
@@ -27,6 +27,7 @@
 <br>
 <br>
 <br>
-DASHBOARD - <br>
+**DASHBOARD -** <br>
+<br>
 <img width="829" height="467" alt="image" src="https://github.com/user-attachments/assets/59ba5773-8c59-4cc5-bf6c-5fc2c457115b" />
 
