@@ -19,12 +19,13 @@
 
 <br>
 
-<img width="846" height="73" alt="image" src="https://github.com/user-attachments/assets/a31ba57d-0c09-48c5-a209-05df71a8e2c9" />
+<img width="823" height="63" alt="image" src="https://github.com/user-attachments/assets/87efc36d-87a5-4f7f-b688-2a28db30ee14" />
+
 
 <br>
 <br>
 <br>
 <br>
 <br>
-![Pizza sales Dashboard ](https://github.com/user-attachments/assets/bf9bfc6d-b8ca-45dc-b319-087e49eefcec)
+<img width="829" height="467" alt="image" src="https://github.com/user-attachments/assets/59ba5773-8c59-4cc5-bf6c-5fc2c457115b" />
 
