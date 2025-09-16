@@ -14,3 +14,11 @@
 -Average Order Value [total revenue] / [total orders]<br>
 -Total Pizzas Sold SUM([quantity])<br>
 -Average Pizzas Per Order [total pizzas sold] / [total orders]<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+![Pizza sales Dashboard ](https://github.com/user-attachments/assets/bf9bfc6d-b8ca-45dc-b319-087e49eefcec)
+
