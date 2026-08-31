@@ -9,7 +9,7 @@ Created a comprehensive dashboard in Power BI featuring key metrics and charts i
 - Top 10 Best Sellers.<br>
 <br>
 <br>
-**KPI**
+** KPI **
 <br>
 - Total Revenue =SUM([order id])<br>
 - Total_pizza_sold = SUM(Full_table[quantity])<br>
